@@ -4,6 +4,8 @@ class Solution {
         int j=Integer.MAX_VALUE;
         int k=0;
         int n=nums.length;
+        if (nums == null || nums.length < 3)
+            return false;
         
         for(int a=0;a<n;a++){
            if(i>=nums[a]){
