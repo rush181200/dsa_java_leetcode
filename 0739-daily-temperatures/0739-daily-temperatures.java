@@ -3,13 +3,21 @@
 //         Stack<Pair<Integer,Integer>> st = new Stack<>();
 //         int n = temperatures.length;
 //         int[] op = new int[n];
-        
+//             Problem when similar comes --> [89,62,70,58,47,47,46,76,100,70]
 //         for(int i=0;i<n;i++){
-//                 while(!st.isEmpty() &&st.peek().getKey()<temperatures[i]){
+//             if(st.isEmpty()){
+//                 st.push(new Pair(temperatures[i],i));
+//             }else if(st.peek().getKey()<temperatures[i]){
+//                 while(!st.isEmpty()&&st.peek().getKey()<temperatures[i]){
 //                     int ind = st.pop().getValue();
-//                     op[ind] = i-ind;
+                    
+//                     op[ind] = i-ind;  
+//                 }
+//                 st.push(new Pair(temperatures[i],i));
+                
+//             }else if(st.peek().getKey()>temperatures[i]){
+//                 st.push(new Pair(temperatures[i],i));
 //             }
-//             st.push(new Pair(temperatures[i],i));
 //         }
         
 //         while(!st.isEmpty()){
