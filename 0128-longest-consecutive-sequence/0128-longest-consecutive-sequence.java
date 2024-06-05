@@ -18,6 +18,7 @@ class Solution {
                 
            }
            if(longest > nums.length/2) break;
+           // If the condition is true, it means that the length of the longest consecutive sequence found so far is greater than half the length of the array. In such a case, there's no need to continue iterating through the array because it's highly unlikely that a longer consecutive sequence will be found. Therefore, the break statement is used to exit the loop early, improving efficiency.
        }
         return longest;
     }
