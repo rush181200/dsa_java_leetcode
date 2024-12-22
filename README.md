@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/rush181200/dsa_java_leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rush181200/dsa_java_leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0090-subsets-ii) |
 | [1829-maximum-units-on-a-truck](https://github.com/rush181200/dsa_java_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Greedy
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/rush181200/dsa_java_leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rush181200/dsa_java_leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rush181200/dsa_java_leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -35,9 +37,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rush181200/dsa_java_leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/rush181200/dsa_java_leetcode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
