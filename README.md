@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rush181200/dsa_java_leetcode/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/rush181200/dsa_java_leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/rush181200/dsa_java_leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rush181200/dsa_java_leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/rush181200/dsa_java_leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0890-lemonade-change) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rush181200/dsa_java_leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/rush181200/dsa_java_leetcode/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
