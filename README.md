@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/rush181200/dsa_java_leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/rush181200/dsa_java_leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/rush181200/dsa_java_leetcode/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0090-subsets-ii) |
 | [0435-non-overlapping-intervals](https://github.com/rush181200/dsa_java_leetcode/tree/master/0435-non-overlapping-intervals) |
