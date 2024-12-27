@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/rush181200/dsa_java_leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/rush181200/dsa_java_leetcode/tree/master/0131-palindrome-partitioning) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rush181200/dsa_java_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
