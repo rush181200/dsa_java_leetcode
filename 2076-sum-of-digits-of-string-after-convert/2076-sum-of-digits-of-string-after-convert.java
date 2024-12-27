@@ -7,7 +7,7 @@ class Solution {
         }
     
        int ans = 0;
-       System.out.println(combine);
+       
        while(k>0){
        
         ans=0;
