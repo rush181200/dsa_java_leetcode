@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rush181200/dsa_java_leetcode/tree/master/0037-sudoku-solver) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rush181200/dsa_java_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/rush181200/dsa_java_leetcode/tree/master/0131-palindrome-partitioning) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rush181200/dsa_java_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rush181200/dsa_java_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
