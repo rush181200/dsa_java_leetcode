@@ -9,16 +9,15 @@ class Solution {
        int ans = 0;
        System.out.println(combine);
        while(k>0){
-        System.out.println("-------==----------------==================");
-         ans=0;
+       
+        ans=0;
         for(int i=0;i<combine.length();i++){
             int digit = combine.charAt(i)-'0';
-            System.out.println(digit);
+            
             ans+=digit;
         }
         
         combine = String.valueOf(ans);
-       
         k--;
        }
          
