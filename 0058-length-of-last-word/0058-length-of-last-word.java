@@ -5,11 +5,15 @@ class Solution {
         s = s.trim();
 
         for(int i = s.length()-1;i>=0;i--){
+            System.out.println(s.charAt(i));
             if(s.charAt(i)!=' '){
                 ans++;
-            }else if(ans>0){
+            }else{
                 break;
             }
+            // else if(ans>0){
+            //     break;
+            // }
         }
 
         return ans;
