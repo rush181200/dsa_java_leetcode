@@ -6,12 +6,9 @@ class Solution {
         for(char nword : word.toCharArray()){
             int clockwise = Math.abs(nword - curr);
             int counterClockwise = 26 - clockwise;
-            System.out.println(clockwise);
-            System.out.println(counterClockwise);
         
-                 minTime += Math.min(clockwise, counterClockwise) + 1;
+            minTime += Math.min(clockwise, counterClockwise) + 1;
 
-            // Update current character
             curr = nword;
            
         }
