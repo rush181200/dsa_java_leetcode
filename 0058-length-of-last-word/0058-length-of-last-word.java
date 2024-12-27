@@ -8,12 +8,13 @@ class Solution {
             System.out.println(s.charAt(i));
             if(s.charAt(i)!=' '){
                 ans++;
-            }else{
-                break;
             }
-            // else if(ans>0){
+            // else{ but it increases time complexity
             //     break;
             // }
+            else if(ans>0){
+                break;
+            }
         }
 
         return ans;
