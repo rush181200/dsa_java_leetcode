@@ -9,9 +9,6 @@ class Solution {
             if(s.charAt(i)!=' '){
                 ans++;
             }
-            // else{ but it increases time complexity
-            //     break;
-            // }
             else if(ans>0){
                 break;
             }
