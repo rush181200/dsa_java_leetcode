@@ -6,9 +6,7 @@ class Solution {
         if(str.equals(s)){
             return true;
         }
-    }
-        System.out.println(str);
-        
+     }   
         return false;
     }
 }
