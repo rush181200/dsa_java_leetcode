@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/rush181200/dsa_java_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rush181200/dsa_java_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/rush181200/dsa_java_leetcode/tree/master/0037-sudoku-solver) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rush181200/dsa_java_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rush181200/dsa_java_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/rush181200/dsa_java_leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rush181200/dsa_java_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String Matching
 |  |
 | ------- |
