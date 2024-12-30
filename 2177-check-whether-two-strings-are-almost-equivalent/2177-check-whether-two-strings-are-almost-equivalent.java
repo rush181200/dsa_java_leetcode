@@ -9,11 +9,8 @@ class Solution {
         for(char c : word2.toCharArray()){
             difference[c-'a']--;
         }
-        boolean flag = false;
         for(int i = 0;i<difference.length;i++){
-            System.out.println(difference[i]);
             if(difference[i] > 3 || difference[i] < -3) return false;
-            
         }
        
         return true;
