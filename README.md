@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/rush181200/dsa_java_leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/rush181200/dsa_java_leetcode/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2235-capitalize-the-title](https://github.com/rush181200/dsa_java_leetcode/tree/master/2235-capitalize-the-title) |
 ## Dynamic Programming
 |  |
 | ------- |
