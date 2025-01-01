@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/rush181200/dsa_java_leetcode/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/rush181200/dsa_java_leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/rush181200/dsa_java_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rush181200/dsa_java_leetcode/tree/master/0067-add-binary) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rush181200/dsa_java_leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/rush181200/dsa_java_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Math
 |  |
 | ------- |
