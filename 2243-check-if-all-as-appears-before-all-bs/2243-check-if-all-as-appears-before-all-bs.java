@@ -10,8 +10,6 @@ class Solution {
                 lastB = i;
             }
             if(lastA>lastB){
-                System.out.println("lastA: "+lastA);
-                System.out.println("lastB: "+lastB);
                 return false;
             } 
         }
