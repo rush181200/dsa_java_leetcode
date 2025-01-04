@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rush181200/dsa_java_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rush181200/dsa_java_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rush181200/dsa_java_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rush181200/dsa_java_leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Dynamic Programming
 |  |
 | ------- |
