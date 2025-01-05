@@ -16,7 +16,6 @@ class Solution {
             // st.put(pattern.charAt(i),val[i]);
              char currentChar = pattern.charAt(i);
             String currentWord = val[i];
-            
             // Check if the character is already mapped
             if (st.containsKey(currentChar)) {
                 if (!st.get(currentChar).equals(currentWord)) {
