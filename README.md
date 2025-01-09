@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rush181200/dsa_java_leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/rush181200/dsa_java_leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/rush181200/dsa_java_leetcode/tree/master/0415-add-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rush181200/dsa_java_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rush181200/dsa_java_leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rush181200/dsa_java_leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rush181200/dsa_java_leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/rush181200/dsa_java_leetcode/tree/master/0415-add-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rush181200/dsa_java_leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rush181200/dsa_java_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Math
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rush181200/dsa_java_leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/rush181200/dsa_java_leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rush181200/dsa_java_leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0415-add-strings](https://github.com/rush181200/dsa_java_leetcode/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
