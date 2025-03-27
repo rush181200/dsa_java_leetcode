@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rush181200/dsa_java_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/rush181200/dsa_java_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rush181200/dsa_java_leetcode/tree/master/0455-assign-cookies) |
+| [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 | [0890-lemonade-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0890-lemonade-change) |
 | [1829-maximum-units-on-a-truck](https://github.com/rush181200/dsa_java_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rush181200/dsa_java_leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 ## String
 |  |
 | ------- |
@@ -180,12 +182,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
