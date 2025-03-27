@@ -10,6 +10,7 @@ class Solution {
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(vis[i][j]==0&&grid[i][j]==1){
+                    // Added int Area so no need of previous every time new value will be assigned
                     int area = dfs(i, j, vis, grid);
                     maxArea = Math.max(maxArea, area); 
                 }
@@ -22,6 +23,7 @@ class Solution {
         vis[row][col] = 1;
         int n = grid.length;
         int m = grid[0].length;
+        // each cell is of area 1 so that helped very well
          int area = 1;
             // Define directions: {row_change, col_change}
         int[] dirX = {0, 0, -1, 1}; // Left, Right, Up, Down
