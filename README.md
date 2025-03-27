@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rush181200/dsa_java_leetcode/tree/master/0037-sudoku-solver) |
+| [0133-clone-graph](https://github.com/rush181200/dsa_java_leetcode/tree/master/0133-clone-graph) |
 | [0290-word-pattern](https://github.com/rush181200/dsa_java_leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rush181200/dsa_java_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rush181200/dsa_java_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -181,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/rush181200/dsa_java_leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/rush181200/dsa_java_leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 ## Union Find
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rush181200/dsa_java_leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
