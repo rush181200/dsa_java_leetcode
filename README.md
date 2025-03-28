@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rush181200/dsa_java_leetcode/tree/master/0455-assign-cookies) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 | [0890-lemonade-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0890-lemonade-change) |
+| [1036-rotting-oranges](https://github.com/rush181200/dsa_java_leetcode/tree/master/1036-rotting-oranges) |
 | [1829-maximum-units-on-a-truck](https://github.com/rush181200/dsa_java_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rush181200/dsa_java_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/rush181200/dsa_java_leetcode/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/rush181200/dsa_java_leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/rush181200/dsa_java_leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
