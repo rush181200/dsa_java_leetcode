@@ -1,55 +1,83 @@
+// class Solution {
+//     public void solve(char[][] board) {
+//         int n = board.length;
+//         int m = board[0].length;
+//         for(int i=0;i<n;i++){
+//             for(int j=0;j<m;j++){
+//                 if(i!=0 && i!=n-1 && j!=0 && j!=m-1 &&board[i][j]=='O'){
+//                     dfs(board,i,j);
+//                 }
+//             }
+//         }
+       
+//     }
+
+//     public void dfs(char[][] board, int row, int col){
+//         int n = board.length;
+//         int m = board[0].length;
+
+//         board[row][col] = 'X';
+
+//         int[] dX = {0, 0, 1, -1};
+//         int[] dY = {1, -1, 0, 0};
+//         for(int i=0;i<4;i++){
+//             int nRow = row + dX[i];
+//             int nCol = col + dY[i];
+
+//             if(nRow>0 && nRow < n-1 && nCol >0 && nCol <m-1 && board[nRow][nCol]=='O'){
+                
+//                 dfs(board,nRow,nCol);
+//             }
+//         }
+//     }
+// }
+
 class Solution {
-    
-    static void dfs(int row, int col, int vis[][], char board[][], int delrow[], int delcol[] ){
-        vis[row][col] = 1;
-        int n = board.length;
-        int m = board[0].length;
-        
-        for(int i=0;i<4;i++){
-            int nrow = row+delrow[i];
-            int ncol = col+delcol[i];
-            
-            if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && vis[nrow][ncol]==0 && board[nrow][ncol]=='O'){
-                dfs(nrow,ncol,vis,board,delrow,delcol);
-            }
-            
-        }
-        
-    }
-    
     public void solve(char[][] board) {
         int n = board.length;
         int m = board[0].length;
-        int[][] vis = new int[n][m];
-        int[] delrow = {-1,0,1,0};
-        int[] delcol = {0,1,0,-1};
         
-//         traverse first and last row
-        for(int j=0;j<m;j++){
-           if(vis[0][j]==0 && board[0][j] =='O'){
-               dfs(0,j,vis,board,delrow,delcol);
-           }
-            if(vis[n-1][j]==0&&board[n-1][j] =='O'){
-                dfs(n-1,j,vis,board,delrow,delcol);
-            }
+        // Step 1: Mark all 'O' connected to the border
+        for (int i = 0; i < n; i++) {
+            if (board[i][0] == 'O') dfs(board, i, 0);     // Left border
+            if (board[i][m - 1] == 'O') dfs(board, i, m - 1); // Right border
         }
-//         traverse first and last col
-        for(int i=0;i<n;i++){
-            if(vis[i][0]==0&&board[i][0]=='O'){
-                dfs(i,0,vis,board,delrow,delcol);
-            }
-            if(vis[i][m-1]==0&&board[i][m-1]=='O'){
-                dfs(i,m-1,vis,board,delrow,delcol);
-            }
+        for (int j = 0; j < m; j++) {
+            if (board[0][j] == 'O') dfs(board, 0, j);     // Top border
+            if (board[n - 1][j] == 'O') dfs(board, n - 1, j); // Bottom border
         }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(vis[i][j]==0&&board[i][j]=='O'){
-                    board[i][j] = 'X';
+
+        // Step 2: Flip remaining 'O' to 'X' and restore '#' to 'O'
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (board[i][j] == 'O') {
+                    board[i][j] = 'X'; // Convert fully surrounded 'O' to 'X'
+                } else if (board[i][j] == '#') {
+                    board[i][j] = 'O'; // Restore non-surrounded 'O'
                 }
-                
             }
         }
+    }
+
+    public void dfs(char[][] board, int row, int col) {
+        int n = board.length;
+        int m = board[0].length;
         
+        if (row < 0 || row >= n || col < 0 || col >= m || board[row][col] != 'O') {
+            return;
+        }
+
+        // Mark this 'O' as '#' so we don't flip it later
+        board[row][col] = '#';
+
+        // 4-directional movement
+        int[] dX = {0, 0, 1, -1};
+        int[] dY = {1, -1, 0, 0};
+
+        for (int i = 0; i < 4; i++) {
+            int nRow = row + dX[i];
+            int nCol = col + dY[i];
+            dfs(board, nRow, nCol);
+        }
     }
 }
