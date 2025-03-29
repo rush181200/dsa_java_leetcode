@@ -34,29 +34,24 @@ class Solution {
             }
         }
 
-        int[] topo = new int[numCourses];
-        int i=0;
+        int preC = 0;
         while(!q.isEmpty()){
             int node = q.poll();
-            topo[i++] = node;
+            preC++;
 
             for(int it:adj.get(node)){
                 indegree[it]--;
                 if(indegree[it] == 0) q.add(it);
             }
         }
-        int cnt=0;
-        for(int j=0;j<topo.length;j++){
-            cnt++;
-        }
-
-        boolean indegreeV = true;
-        for(int j = 0;j<indegree.length;j++){
-            if(indegree[j]>0) indegreeV = false;
-        }
+        
+        // boolean indegreeV = true;
+        // for(int j = 0;j<indegree.length;j++){
+        //     if(indegree[j]>0) indegreeV = false;
+        // }
        
 
-        return cnt == numCourses && indegreeV ;
+        return preC == numCourses ;
       }
 }
 
