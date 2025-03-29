@@ -1,67 +1,45 @@
-// class Solution {
-//     public boolean canFinish(int numCourses, int[][] prerequisites) {
-//         Map<Integer, List<Integer>> adjList = new HashMap<>();
 
-//         // Initialize adjacency list for all courses
-//         for (int i = 0; i < numCourses; i++) {
-//             adjList.put(i, new ArrayList<>());
-//         }
-
-//         // Build the adjacency list from prerequisites
-//         for (int[] pre : prerequisites) {
-//             int course = pre[0];  // Course to be taken
-//             int prereq = pre[1];  // Prerequisite course
-//             adjList.get(prereq).add(course); // Add dependency
-//         }
-
-//         int[] visitSet = new int[adjList.length];
-
-//         boolean ans = dfs(visitSet,adjList);
-
-//         return ans;
-//     }
-
-//     public boolean dfs(int[] visitSet, Map<Integer, List<Integer>> adjList){
-
-//     }
-// }
 
 import java.util.*;
 
 class Solution {
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
-        // Step 1: Build adjacency list
-        Map<Integer, List<Integer>> adjList = new HashMap<>();
+      public boolean canFinish(int numCourses, int[][] prerequisites) {
+        // Step 1: Build adjacency list (course -> prerequisite list)
+        Map<Integer, List<Integer>> preMap = new HashMap<>();
         for (int i = 0; i < numCourses; i++) {
-            adjList.put(i, new ArrayList<>());
+            preMap.put(i, new ArrayList<>());
         }
         for (int[] pre : prerequisites) {
             int course = pre[0];
             int prereq = pre[1];
-            adjList.get(prereq).add(course);
+            preMap.get(course).add(prereq);
         }
 
-        // Step 2: Initialize visited array
-        int[] visitSet = new int[numCourses];
+        // Step 2: Initialize visited set (to track current DFS path)
+        Set<Integer> visitSet = new HashSet<>();
 
         // Step 3: Check for cycles using DFS
-        for (int i = 0; i < numCourses; i++) {
-            if (dfs(i, visitSet, adjList)) return false;
+        for (int course = 0; course < numCourses; course++) {
+            if (!dfs(course, preMap, visitSet)) {
+                return false;  // Cycle detected
+            }
         }
-        return true;
+        return true;  // No cycle found
     }
 
-    public boolean dfs(int course, int[] visitSet, Map<Integer, List<Integer>> adjList) {
-        if (visitSet[course] == 1) return true;  // Cycle detected
-        if (visitSet[course] == 2) return false; // Already processed
+    private boolean dfs(int course, Map<Integer, List<Integer>> preMap, Set<Integer> visitSet) {
+        if (visitSet.contains(course)) return false; // Cycle detected
+        if (preMap.get(course).isEmpty()) return true; // No prerequisites left to process
 
-        visitSet[course] = 1;  // Mark node as visiting
-
-        for (int next : adjList.get(course)) {
-            if (dfs(next, visitSet, adjList)) return true; // Cycle found
+        visitSet.add(course);
+        for (int prereq : preMap.get(course)) {
+            if (!dfs(prereq, preMap, visitSet)) {
+                return false;
+            }
         }
+        visitSet.remove(course);
+        preMap.put(course, new ArrayList<>()); // Mark course as processed (memoization)
 
-        visitSet[course] = 2;  // Mark node as fully processed
-        return false;
+        return true;
     }
 }
