@@ -11,19 +11,13 @@ class Solution {
             adj.put(i,new ArrayList<>());
         }
 
+         int[] indegree = new int[numCourses];
+
         for(int[] it : prerequisites){
           int course = it[0];
           int pre = it[1];
-            adj.get(course).add(pre);
-        }
-
-        // Indegree
-        int[] indegree = new int[numCourses];
-
-        for(int i=0;i<numCourses;i++){
-            for( int it : adj.get(i)){
-                indegree[it]++;
-            }
+            adj.get(pre).add(course);
+            indegree[course]++;
         }
 
         Queue<Integer> q = new LinkedList<>();
@@ -44,13 +38,7 @@ class Solution {
                 if(indegree[it] == 0) q.add(it);
             }
         }
-        
-        // boolean indegreeV = true;
-        // for(int j = 0;j<indegree.length;j++){
-        //     if(indegree[j]>0) indegreeV = false;
-        // }
        
-
         return preC == numCourses ;
       }
 }
