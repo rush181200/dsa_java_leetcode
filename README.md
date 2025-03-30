@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/rush181200/dsa_java_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/rush181200/dsa_java_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rush181200/dsa_java_leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 | [0890-lemonade-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/rush181200/dsa_java_leetcode/tree/master/1036-rotting-oranges) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rush181200/dsa_java_leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/rush181200/dsa_java_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rush181200/dsa_java_leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0890-lemonade-change) |
 | [1829-maximum-units-on-a-truck](https://github.com/rush181200/dsa_java_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rush181200/dsa_java_leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rush181200/dsa_java_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/rush181200/dsa_java_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rush181200/dsa_java_leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
 | [1829-maximum-units-on-a-truck](https://github.com/rush181200/dsa_java_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Backtracking
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/rush181200/dsa_java_leetcode/tree/master/0133-clone-graph) |
 | [0290-word-pattern](https://github.com/rush181200/dsa_java_leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rush181200/dsa_java_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rush181200/dsa_java_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/rush181200/dsa_java_leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rush181200/dsa_java_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rush181200/dsa_java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
@@ -161,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rush181200/dsa_java_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rush181200/dsa_java_leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/rush181200/dsa_java_leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
