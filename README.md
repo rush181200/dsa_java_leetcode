@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rush181200/dsa_java_leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rush181200/dsa_java_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rush181200/dsa_java_leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/rush181200/dsa_java_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/rush181200/dsa_java_leetcode/tree/master/0130-surrounded-regions) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rush181200/dsa_java_leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/rush181200/dsa_java_leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/rush181200/dsa_java_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rush181200/dsa_java_leetcode/tree/master/0131-palindrome-partitioning) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rush181200/dsa_java_leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/rush181200/dsa_java_leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
