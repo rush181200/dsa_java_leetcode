@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/rush181200/dsa_java_leetcode/tree/master/1036-rotting-oranges) |
 | [1829-maximum-units-on-a-truck](https://github.com/rush181200/dsa_java_leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/rush181200/dsa_java_leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rush181200/dsa_java_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0890-lemonade-change) |
 | [1829-maximum-units-on-a-truck](https://github.com/rush181200/dsa_java_leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/rush181200/dsa_java_leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rush181200/dsa_java_leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rush181200/dsa_java_leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
