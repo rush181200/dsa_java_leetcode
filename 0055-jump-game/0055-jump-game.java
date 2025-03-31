@@ -4,6 +4,7 @@ class Solution {
         int maxInd = 0;
          for(int i=0;i<n;i++){
             if(i>maxInd) return false;
+            if(maxInd == n-1) return true; 
             maxInd = Math.max(maxInd,i+nums[i]);
         }
         return true;
