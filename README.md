@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rush181200/dsa_java_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Simulation
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rush181200/dsa_java_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rush181200/dsa_java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rush181200/dsa_java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/rush181200/dsa_java_leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
