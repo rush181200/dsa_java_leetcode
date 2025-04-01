@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rush181200/dsa_java_leetcode/tree/master/0155-min-stack) |
 | [2128-reverse-prefix-of-word](https://github.com/rush181200/dsa_java_leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Enumeration
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rush181200/dsa_java_leetcode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rush181200/dsa_java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
