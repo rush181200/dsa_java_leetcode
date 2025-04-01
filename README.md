@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/rush181200/dsa_java_leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rush181200/dsa_java_leetcode/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rush181200/dsa_java_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rush181200/dsa_java_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rush181200/dsa_java_leetcode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rush181200/dsa_java_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/rush181200/dsa_java_leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rush181200/dsa_java_leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/rush181200/dsa_java_leetcode/tree/master/0415-add-strings) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rush181200/dsa_java_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rush181200/dsa_java_leetcode/tree/master/0155-min-stack) |
 | [2128-reverse-prefix-of-word](https://github.com/rush181200/dsa_java_leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Enumeration
