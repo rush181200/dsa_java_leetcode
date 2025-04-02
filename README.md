@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rush181200/dsa_java_leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/rush181200/dsa_java_leetcode/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0890-lemonade-change) |
 | [1014-k-closest-points-to-origin](https://github.com/rush181200/dsa_java_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/rush181200/dsa_java_leetcode/tree/master/1036-rotting-oranges) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rush181200/dsa_java_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rush181200/dsa_java_leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/rush181200/dsa_java_leetcode/tree/master/0739-daily-temperatures) |
 | [2128-reverse-prefix-of-word](https://github.com/rush181200/dsa_java_leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Enumeration
 |  |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/rush181200/dsa_java_leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
