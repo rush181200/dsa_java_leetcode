@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/rush181200/dsa_java_leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rush181200/dsa_java_leetcode/tree/master/0133-clone-graph) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rush181200/dsa_java_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -299,10 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rush181200/dsa_java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rush181200/dsa_java_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0543-diameter-of-binary-tree) |
