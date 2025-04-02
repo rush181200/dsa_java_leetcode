@@ -13,18 +13,31 @@
  *     }
  * }
  */
+// class Solution {
+//     public boolean isValidBST(TreeNode root) {
+//         if(root == null) return true;
+//  77/86 passed
+//         if(root.left!=null && root.val <= root.left.val) return false;
+//         if(root.right!=null && root.val >= root.right.val) return false;
+
+//         boolean left =  isValidBST(root.left);
+//         boolean right = isValidBST(root.right);
+
+//         return left && right;
+//     }
+// }
+
 class Solution {
-    TreeNode prev = null;
     public boolean isValidBST(TreeNode root) {
-        if(root!=null){
-            if(!isValidBST(root.left)){
-                return false;
-            }
-            if(prev!=null&&root.val<=prev.val){
-                return false;
-            }
-            prev=root;
-            return isValidBST(root.right);
-        }
-        return true;
-    }}
+        return validate(root, Long.MIN_VALUE, Long.MAX_VALUE);
+    }
+
+    private boolean validate(TreeNode node, long min, long max) {
+        if (node == null) return true;
+
+        if (node.val <= min || node.val >= max) return false;
+
+        return validate(node.left, min, node.val) &&
+               validate(node.right, node.val, max);
+    }
+}
