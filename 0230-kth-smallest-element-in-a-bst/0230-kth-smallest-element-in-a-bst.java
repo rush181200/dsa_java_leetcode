@@ -38,6 +38,13 @@
 //     }
 // }
 
+// Given a Binary Search Tree, return the k-th smallest element in it.
+
+// \U0001f9e0 Key Insight:
+// An inorder traversal of a BST gives the elements in sorted (ascending) order.
+
+// So, the k-th node visited during inorder traversal is the answer.
+
 class Solution {
     private int count = 0;
     private int result = -1;
