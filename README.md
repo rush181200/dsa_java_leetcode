@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/rush181200/dsa_java_leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0890-lemonade-change) |
 | [1014-k-closest-points-to-origin](https://github.com/rush181200/dsa_java_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/rush181200/dsa_java_leetcode/tree/master/1036-rotting-oranges) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rush181200/dsa_java_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0792-binary-search) |
 ## Tree
 |  |
 | ------- |
