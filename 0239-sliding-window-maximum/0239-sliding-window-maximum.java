@@ -1,67 +1,56 @@
 class Solution {
-
     public int[] maxSlidingWindow(int[] nums, int k) {
-        int[] ans = new int[nums.length - k + 1];
-        int j = 0;
-        Deque<Integer> q = new LinkedList<>();
-        for (int i = 0; i < nums.length; i++) {
-            if (!q.isEmpty() && q.peekFirst() < i - k + 1) q.pollFirst();
-            while (!q.isEmpty() && nums[i] > nums[q.peekLast()]) q.pollLast();
-            q.offer(i);
-            if (i >= k - 1) ans[j++] = nums[q.peekFirst()];
+        if (nums == null || k == 0) return new int[0];
+
+        int n = nums.length;
+        int[] result = new int[n - k + 1];
+        Deque<Integer> deque = new LinkedList<>();
+
+        for (int i = 0; i < n; i++) {
+            // Remove indices outside the current window
+            if (!deque.isEmpty() && deque.peekFirst() < i - k + 1) {
+                deque.pollFirst();
+            }
+
+            // Remove indices whose values are less than current element
+            while (!deque.isEmpty() && nums[deque.peekLast()] < nums[i]) {
+                deque.pollLast();
+            }
+
+            // Add current index
+            deque.offerLast(i);
+
+            // Start recording max values once window is fully filled
+            if (i >= k - 1) {
+                result[i - k + 1] = nums[deque.peekFirst()];
+            }
         }
-        return ans;
+
+        return result;
     }
 }
 
 
+// 42/51 testcaes works then TIME LIMIT EXCEED
 // class Solution {
 //     public int[] maxSlidingWindow(int[] nums, int k) {
-        
-//         Deque<Integer> q = new ArrayDeque<>();
-//         ArrayList<Integer> ans = new ArrayList<>();
+//          if (nums == null || nums.length == 0 || k == 0 || k > nums.length) {
+//             return new int[0];
+//         }
+//         int n = nums.length-1;
 //         int l=0;
-//         int r=0;
-//         int n = nums.length;
-        
-//         while(r<n){
-//             q.addFirst(nums[r]);
-            
-//         }
-
-        
-        
-        
-//         int n = nums.length;
-//         ArrayList<Integer> ans = new ArrayList<>();
-//         int l= 0;
-//         // int max = 0;
-//         for(int r=0;r<n;r++){
-//             // if(l==r){
-//             //     max = nums[r];
-//             // }
-//             // else{
-//             //     max = Math.max(max,nums[r]);
-//             // }
-            
-//             // System.out.println(max);
-//             if(r-l+1==k){
-//                 int max=Integer.MIN_VALUE;
-//                 int l1=l;
-//                 int r1=r;
-//                 while(l1<=r1){
-//                     max = Math.max(max,nums[l1]);
-//                     l1++;
-//                 }
-                    
-//                 ans.add(max);
-//                 l++;
+//         int r = l+k-1;
+//         List<Integer> list = new ArrayList<>();
+//         while(r<=n){
+//             int max = nums[l];
+//             for(int a = l;a<=r;a++){
+//                 max = Math.max(max,nums[a]);
 //             }
+//             list.add(max);
+//             l++;
+//             r++;
 //         }
-//         int[] arr = new int[ans.size()];
-//         for (int i = 0; i < ans.size(); i++) {
-//             arr[i] = ans.get(i);
-//         }
-//         return arr;
+//         return list.stream().mapToInt(i -> i).toArray();
+
 //     }
 // }
