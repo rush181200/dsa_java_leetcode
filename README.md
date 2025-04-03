@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rush181200/dsa_java_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/rush181200/dsa_java_leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/rush181200/dsa_java_leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/rush181200/dsa_java_leetcode/tree/master/0133-clone-graph) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rush181200/dsa_java_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/rush181200/dsa_java_leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rush181200/dsa_java_leetcode/tree/master/0058-length-of-last-word) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/rush181200/dsa_java_leetcode/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rush181200/dsa_java_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
