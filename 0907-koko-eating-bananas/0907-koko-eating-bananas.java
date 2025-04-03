@@ -8,7 +8,7 @@ class Solution {
 
        int l = 1;
        int r = maxPile;
-       int k = 0;
+       int k = maxPile;
        while(l<=r){
         int mid = l + (r - l) / 2;
         if(totalh(mid,piles)>h){
