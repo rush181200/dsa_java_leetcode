@@ -1,47 +1,37 @@
 // class Solution {
 //     public int findMin(int[] nums) {
-//         int l = 0;
-//         int r = nums.length-1;
-//         int min = Integer.MAX_VALUE;
-        
-//             while(l<=r){
-//                 if (nums[l] <= nums[r]) {
-//                 return nums[l];
-//                 }
-//                 int mid = l+r/2;
-//                 min = Math.min(min,mid);
-//                 System.out.println(mid);
-//                 if(nums[mid]>=nums[l]){
-//                      l=mid+1;
-//                 }else{
-//                     r=mid-1;
-                   
-//                 }
-                
-//             }
-
-//         return min;
+//         int n = nums.length;
+//         int r = n-1;
+//         int l=0;
+//         while(l<=r){
+//             int mid = l+(r-l)/2;
+//             if(nums[mid]>nums[r]){
+//                 l = mid+1;
+//             }else {
+//                 r= mid;
+//            }
+//         }
+//         return nums[l];
 //     }
 // }
 
 class Solution {
-
     public int findMin(int[] nums) {
         int l = 0;
         int r = nums.length - 1;
 
-        while (l <= r) {
-            if (nums[l] <= nums[r]) {
-                return nums[l];
-            }
+        while (l < r) {
+            int mid = l + (r - l) / 2;
 
-            int mid = (l + r) / 2;
-            if (nums[mid] >= nums[l]) {
+            // If mid element is greater than right, min must be on the right
+            if (nums[mid] > nums[r]) {
                 l = mid + 1;
             } else {
+                // mid might be the smallest, so include it
                 r = mid;
             }
         }
-        return 0;
+
+        return nums[l]; // or nums[r] — both are same when loop ends
     }
 }
