@@ -34,29 +34,55 @@
 //     }
 // }
 
+
+// This is 2 pass approach
+// class Solution {
+//     public ListNode removeNthFromEnd(ListNode head, int n) {
+//         int size = 0;
+//         ListNode temp = head;
+
+//         // 1. Get total size
+//         while (temp != null) {
+//             size++;
+//             temp = temp.next;
+//         }
+
+//         // 2. Remove head
+//         if (n == size) return head.next;
+
+//         // 3. Find the node before the one to remove
+//         temp = head;
+//         for (int i = 1; i < size - n; i++) {
+//             temp = temp.next;
+//         }
+
+//         // 4. Skip the nth node from end
+//         temp.next = temp.next.next;
+
+//         return head;
+//     }
+// }
+
+// One pass
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        int size = 0;
-        ListNode temp = head;
+        ListNode dummy = new ListNode(0, head);
+        ListNode fast = dummy, slow = dummy;
 
-        // 1. Get total size
-        while (temp != null) {
-            size++;
-            temp = temp.next;
+        // Move fast ahead by n+1 steps
+        for (int i = 0; i <= n; i++) {
+            fast = fast.next;
         }
 
-        // 2. Remove head
-        if (n == size) return head.next;
-
-        // 3. Find the node before the one to remove
-        temp = head;
-        for (int i = 1; i < size - n; i++) {
-            temp = temp.next;
+        // Move both till fast reaches end
+        while (fast != null) {
+            fast = fast.next;
+            slow = slow.next;
         }
 
-        // 4. Skip the nth node from end
-        temp.next = temp.next.next;
+        // Delete nth node
+        slow.next = slow.next.next;
 
-        return head;
+        return dummy.next;
     }
 }
