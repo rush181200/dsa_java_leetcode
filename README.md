@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rush181200/dsa_java_leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/rush181200/dsa_java_leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/rush181200/dsa_java_leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/rush181200/dsa_java_leetcode/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/rush181200/dsa_java_leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rush181200/dsa_java_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rush181200/dsa_java_leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/rush181200/dsa_java_leetcode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rush181200/dsa_java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -376,8 +378,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rush181200/dsa_java_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rush181200/dsa_java_leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/rush181200/dsa_java_leetcode/tree/master/0146-lru-cache) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rush181200/dsa_java_leetcode/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rush181200/dsa_java_leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
