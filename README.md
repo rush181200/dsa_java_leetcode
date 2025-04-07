@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rush181200/dsa_java_leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/rush181200/dsa_java_leetcode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/rush181200/dsa_java_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rush181200/dsa_java_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rush181200/dsa_java_leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rush181200/dsa_java_leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rush181200/dsa_java_leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rush181200/dsa_java_leetcode/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rush181200/dsa_java_leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/rush181200/dsa_java_leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rush181200/dsa_java_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/rush181200/dsa_java_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/rush181200/dsa_java_leetcode/tree/master/0455-assign-cookies) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rush181200/dsa_java_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/rush181200/dsa_java_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/rush181200/dsa_java_leetcode/tree/master/0907-koko-eating-bananas) |
 ## Tree
