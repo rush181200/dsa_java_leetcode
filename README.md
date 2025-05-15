@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rush181200/dsa_java_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rush181200/dsa_java_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rush181200/dsa_java_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/rush181200/dsa_java_leetcode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rush181200/dsa_java_leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rush181200/dsa_java_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/rush181200/dsa_java_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rush181200/dsa_java_leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rush181200/dsa_java_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/rush181200/dsa_java_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/rush181200/dsa_java_leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rush181200/dsa_java_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
