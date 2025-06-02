@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/rush181200/dsa_java_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rush181200/dsa_java_leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rush181200/dsa_java_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3321-type-of-triangle](https://github.com/rush181200/dsa_java_leetcode/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rush181200/dsa_java_leetcode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/rush181200/dsa_java_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1829-maximum-units-on-a-truck](https://github.com/rush181200/dsa_java_leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [3321-type-of-triangle](https://github.com/rush181200/dsa_java_leetcode/tree/master/3321-type-of-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rush181200/dsa_java_leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/rush181200/dsa_java_leetcode/tree/master/0415-add-strings) |
 | [1014-k-closest-points-to-origin](https://github.com/rush181200/dsa_java_leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3321-type-of-triangle](https://github.com/rush181200/dsa_java_leetcode/tree/master/3321-type-of-triangle) |
 ## Stack
 |  |
 | ------- |
