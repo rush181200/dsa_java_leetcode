@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rush181200/dsa_java_leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/rush181200/dsa_java_leetcode/tree/master/0415-add-strings) |
 | [1014-k-closest-points-to-origin](https://github.com/rush181200/dsa_java_leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/rush181200/dsa_java_leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/rush181200/dsa_java_leetcode/tree/master/3321-type-of-triangle) |
 ## Stack
 |  |
