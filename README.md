@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/rush181200/dsa_java_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/rush181200/dsa_java_leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1008-binary-tree-cameras](https://github.com/rush181200/dsa_java_leetcode/tree/master/1008-binary-tree-cameras) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rush181200/dsa_java_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/rush181200/dsa_java_leetcode/tree/master/0695-max-area-of-island) |
+| [1008-binary-tree-cameras](https://github.com/rush181200/dsa_java_leetcode/tree/master/1008-binary-tree-cameras) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rush181200/dsa_java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1008-binary-tree-cameras](https://github.com/rush181200/dsa_java_leetcode/tree/master/1008-binary-tree-cameras) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rush181200/dsa_java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1008-binary-tree-cameras](https://github.com/rush181200/dsa_java_leetcode/tree/master/1008-binary-tree-cameras) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
