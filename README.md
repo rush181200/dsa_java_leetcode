@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rush181200/dsa_java_leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rush181200/dsa_java_leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rush181200/dsa_java_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rush181200/dsa_java_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/rush181200/dsa_java_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/rush181200/dsa_java_leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/rush181200/dsa_java_leetcode/tree/master/0322-coin-change) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rush181200/dsa_java_leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rush181200/dsa_java_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/rush181200/dsa_java_leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rush181200/dsa_java_leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/rush181200/dsa_java_leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rush181200/dsa_java_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rush181200/dsa_java_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rush181200/dsa_java_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rush181200/dsa_java_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rush181200/dsa_java_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rush181200/dsa_java_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rush181200/dsa_java_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rush181200/dsa_java_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rush181200/dsa_java_leetcode/tree/master/0543-diameter-of-binary-tree) |
