@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rush181200/dsa_java_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/rush181200/dsa_java_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/rush181200/dsa_java_leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/rush181200/dsa_java_leetcode/tree/master/0146-lru-cache) |
 ## Memoization
@@ -433,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/rush181200/dsa_java_leetcode/tree/master/0332-reconstruct-itinerary) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rush181200/dsa_java_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
